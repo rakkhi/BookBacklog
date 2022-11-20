@@ -15,25 +15,48 @@
 - https://news.ycombinator.com/item?id=19087418
 
 ## Template
-- Book:
-   - Title: "Title"
+- Title: "Title"
+   - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: [x]
+   - Read_Y_N: []
    - My_Rating: "Number out of 5"
+
+## To do list
+- Add links as per tempate
+- Rate all the books I have read
+- Add authors
 
 ## The actual book backlog
 
-- Book:
-   - Title: "Separating school and state: John Tayler Gatto"
+1. Separating school and state: John Tayler Gatto
+   - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: [x]
+   - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
 2. LCTM : When Genius Failed
-3. Prices and production 
-4. Monetary theory and the Trade cycle 
+   - Author: "Name"
+   - Audible_Link: "Link"
+   - Goodreads_Link: "Link"
+   - Read_Y_N: []
+   - My_Rating: "Number out of 5"
+
+4. Prices and production 
+   - Author: "Name"
+   - Audible_Link: "Link"
+   - Goodreads_Link: "Link"
+   - Read_Y_N: []
+   - My_Rating: "Number out of 5"
+
+6. Monetary theory and the Trade cycle 
+   - Author: "Name"
+   - Audible_Link: "Link"
+   - Goodreads_Link: "Link"
+   - Read_Y_N: []
+   - My_Rating: "Number out of 5"
+
 5. Friedrich von Hayek:
 6. Rothbard in Making Economic Sense
 7. Rothbard's 'Law, Property Rights, and Air Pollution
