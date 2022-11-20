@@ -15,12 +15,12 @@
 - https://news.ycombinator.com/item?id=19087418
 
 ## Template
-Book:
-  Title: "Title"
-  Audible_Link: "Link"
-  Goodreads_Link: "Link"
-  Read_Y_N: [x]
-  My_Rating: "Number out of 5"
+- Book:
+   - Title: "Title"
+   - Audible_Link: "Link"
+   - Goodreads_Link: "Link"
+   - Read_Y_N: [x]
+   - My_Rating: "Number out of 5"
 
 ## The actual book backlog
 
