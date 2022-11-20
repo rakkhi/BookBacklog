@@ -24,12 +24,12 @@
 
 ## The actual book backlog
 
-Book:
-  Title: "Separating school and state: John Tayler Gatto"
-  Audible_Link: "Link"
-  Goodreads_Link: "Link"
-  Read_Y_N: [x]
-  My_Rating: "Number out of 5"
+- Book:
+   - Title: "Separating school and state: John Tayler Gatto"
+   - Audible_Link: "Link"
+   - Goodreads_Link: "Link"
+   - Read_Y_N: [x]
+   - My_Rating: "Number out of 5"
 
 2. LCTM : When Genius Failed
 3. Prices and production 
