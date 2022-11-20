@@ -37,66 +37,67 @@ Feel free to suggest, add, change anything via PR.
 [] Rate all the books I have read
 [] Add authors
 [] Find the titles where I have just listed authors
+[] Check all the spelling
 
 ## The actual book backlog
 
-1. Separating school and state: John Tayler Gatto
+01. Separating school and state: John Tayler Gatto
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-2. LCTM : When Genius Failed
+02. LCTM : When Genius Failed
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-3. Prices and production 
+03. Prices and production 
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-4. Monetary theory and the Trade cycle 
+04. Monetary theory and the Trade cycle 
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-5. Friedrich von Hayek
+05. Friedrich von Hayek
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-6. Rothbard in Making Economic Sense
+06. Rothbard in Making Economic Sense
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-7. Rothbard's 'Law, Property Rights, and Air Pollution
+07. Rothbard's 'Law, Property Rights, and Air Pollution
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-8. Theory of money and credit
+08. Theory of money and credit
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-9. Alan Debottom
+09. Alan Debottom
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
@@ -180,12 +181,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-21. Hazlitt: the failure of the new economics 
-   - Author: "Name"
+21. The failure of the new economics 
+   - Author: "Hazlitt"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
 22. Seven Brief Lessons on Physics
    - Author: "Name"
@@ -216,11 +217,11 @@ Feel free to suggest, add, change anything via PR.
    - My_Rating: "Number out of 5"
 
 26. The beginning of infinity 
-   - Author: "Name"
+   - Author: "Shaun Carroll"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
 27. Great courses: physics latest neutrino research 
    - Author: "Name"
@@ -257,40 +258,40 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-32. On intelligence by Jeff Hawkins
-   - Author: "Name"
+32. On intelligence
+   - Author: "Jeff Hawkins"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 4.5
 
-33. The science of interstellar - Kip Thorne
-   - Author: "Name"
+33. The science of interstellar
+   - Author: "Kip Thorne"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 3
 
 34. The Vital Question: Why Is Life the Way It Is
-   - Author: "Name"
+   - Author: "Nick Lane"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
-35. Superintelligence: paths, dangers, strategies by Nick Bostrom
-   - Author: "Name"
+35. Superintelligence: paths, dangers, strategies
+   - Author: "Nick Bostrom"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 3
 
 36. Thinking fast and slow
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
 37. Coming apart
    - Author: "Name"
@@ -303,8 +304,8 @@ Feel free to suggest, add, change anything via PR.
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 3
 
 39. Electricity and magnetism percell
    - Author: "Name"
@@ -334,12 +335,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-43. The big picture Shaun Carrol
-   - Author: "Name"
+43. The big picture
+   - Author: "Shaun Carroll"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
 44. Cosmological cohons - Anthony geary
    - Author: "Name"
@@ -348,12 +349,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-45. Exhalation - Ted Chiang 
-   - Author: "Name"
+45. Exhalation 
+   - Author: " Ted Chiang"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
 46. The Equations of Life: How Physics Shapes Evolution
    - Author: "Name"
@@ -411,12 +412,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-54. The master and margarita by Bulgakov
-   - Author: "Name"
+54. The master and margarita
+   - Author: "Bulgakov"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 3
 
 55. Introduction probability 
    - Author: "Name"
@@ -489,11 +490,11 @@ Feel free to suggest, add, change anything via PR.
    - My_Rating: "Number out of 5"
 
 65. Life Ascending
-   - Author: "Name"
+   - Author: "Nick Lane"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
 66. Intellectual Curiosity and the Scientific Revolutionby Toby Huff
    - Author: "Name"
@@ -509,12 +510,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-68. Something deeply hidden Shaun Carroll
-   - Author: "Name"
+68. Something deeply hidden
+   - Author: "Shaun Carroll"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
 69. Uncontrolled Jim Manzi
    - Author: "Name"
@@ -530,12 +531,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-71. Stories of your life and others - Ted Chiang
-   - Author: "Name"
+71. Stories of your life and others
+   - Author: "Ted Chiang"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
    - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - My_Rating: 5
 
 72. The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains - Joseph Ledoux
    - Author: "Name"
@@ -562,14 +563,14 @@ Feel free to suggest, add, change anything via PR.
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
-76. Why we sleep by Matthew Walker
-   - Author: "Name"
+76. Why we sleep
+   - Author: "Matthew Walker"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
+   - Read_Y_N: [X]
    - My_Rating: "Number out of 5"
 
 77. Einstein's Unfinished Revolution by Lee Smolin
@@ -607,12 +608,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-82. Melanie Mitchell AI book
-   - Author: "Name"
+82. ARTIFICIAL INTELLIGENCE
+   - Author: "Melanie Mitchell"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 4
 
 83. Quantum Computing Since Democritus by Scott Aaronson
    - Author: "Name"
@@ -628,12 +629,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-85. Max tegmark our mathematical universe
-   - Author: "Name"
+85. Our Mathematical Universe
+   - Author: "Max Tegmark"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 3
 
 86. Pain Free and Pain Free at Your PC by Pete Egoscue
    - Author: "Name"
@@ -705,19 +706,19 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-96. Daniel Dennet consciousness explained
-   - Author: "Name"
+96. Consciousness Explained
+   - Author: "Daniel Dennett"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
-97. Hoffstedder I am a strange loop
-   - Author: "Name"
+97. I am a strange loop
+   - Author: "Douglas Hoffstedder"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 4.5
 
 98. Jenan Ishmael How physics make us free
    - Author: "Name"
@@ -751,15 +752,15 @@ Feel free to suggest, add, change anything via PR.
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 4
 
-103. From eternity to here. Other Shaun Carroll books 
-   - Author: "Name"
+103. From eternity to here 
+   - Author: "Shaun Carroll"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
 104. Fiction: Brandon Sanderson
    - Author: "Name"
@@ -768,12 +769,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-105. Oxygen by Nick Lane
-   - Author: "Name"
+105. Oxygen
+   - Author: "Nick Lane"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 5
 
 106. Diversity by Charles Murray
    - Author: "Name"
@@ -786,8 +787,8 @@ Feel free to suggest, add, change anything via PR.
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 4
 
 108. Stephen pinker the stuff of thought
    - Author: "Name"
@@ -803,12 +804,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-110. Jennifer Doudna's "A crack in creation"
-   - Author: "Name"
+110. A crack in creation
+   - Author: "Jennifer Doudna"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [Y]
+   - My_Rating: 4.5
 
 111. A series of fortunate events Shuan B Carroll
    - Author: "Name"
@@ -835,8 +836,8 @@ Feel free to suggest, add, change anything via PR.
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 4
 
 115. The Accidental Superpower
    - Author: "Name"
@@ -870,8 +871,8 @@ Feel free to suggest, add, change anything via PR.
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 3
 
 120. Wetware: A Computer in Every Living Cell
    - Author: "Name"
@@ -898,8 +899,8 @@ Feel free to suggest, add, change anything via PR.
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 3
 
 124. David Wallace the emergent multiverse
    - Author: "Name"
@@ -908,12 +909,12 @@ Feel free to suggest, add, change anything via PR.
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
 
-125. Being you anil Seth
-   - Author: "Name"
+125. Being You
+   - Author: "Anil Seth"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
-   - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - Read_Y_N: [X]
+   - My_Rating: 3
 
 126. Carlo Rovelli's "The Order of Time",
    - Author: "Name"
