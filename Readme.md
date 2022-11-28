@@ -25,12 +25,13 @@ My process is just to capture a good book or recommendation when I see it here. 
 Feel free to suggest, add, change anything via PR.
 
 ## Template
-- Title: "Title"
+
+<number>. Title: "Title"
    - Author: "Name"
    - Audible_Link: "Link"
    - Goodreads_Link: "Link"
    - Read_Y_N: []
-   - My_Rating: "Number out of 5"
+   - My_Rating: "Number out of 5
 
 ## To do list
 [] Add links as per tempate
@@ -985,3 +986,10 @@ Feel free to suggest, add, change anything via PR.
    - Goodreads_Link: "Link"
    - Read_Y_N: []
    - My_Rating: "Number out of 5"
+   
+136. Title: "Curious Minds: The Power of Connection"
+   - Author: " Perry Zurn, Dani S Bassett"
+   - Audible_Link: "None at the moment"
+   - Goodreads_Link: "https://www.goodreads.com/en/book/show/59811376-curious-minds"
+   - Read_Y_N: [N]
+   - My_Rating: ""
